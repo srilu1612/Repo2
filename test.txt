@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1A4C-037E
+
+ Directory of C:\Users\srilu\Desktop\My Project
+
+11/01/2020  07:35 PM    <DIR>          .
+11/01/2020  07:35 PM    <DIR>          ..
+11/01/2020  07:35 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90,012,065,792 bytes free
